@@ -153,36 +153,35 @@ Banking-Management-System/
 
 ---
 
-# 📸 Application Screenshots
+## 📸 Application Screenshots
 
-The application includes dedicated portals and modules for administrators and customers, along with banking analytics, loans and cards, services, and statistical insights.
+### 🖥️ Admin Portal
 
-## 🛡️ Admin Portal
+![Admin Portal](images/Admin%20Portal.png)
 
-![Admin Portal](images/admin-portal.png)
+### 📊 Banking Analytics
 
-## 📊 Banking Analytics
+![Banking Analytics](images/Banking%20Ana.png)
 
-![Banking Analytics](images/banking-analytics.png)
+### 📈 Banking Analytics Dashboard
 
-## 👤 Customer Portal
+![Banking Analytics](images/Banking%20analytics.png)
 
-![Customer Portal](images/customer-portal.png)
+### 👤 Customer Portal
 
-## 💳 Loans & Cards
+![Customer Portal](images/Customer%20Portal.png)
 
-![Loans & Cards](images/loans-and-cards.png)
+### 💳 Loans & Cards
 
-## 🏦 Banking Services
+![Loans & Cards](images/Loan%20%26%20Cards.png)
 
-![Services](images/services.png)
+### 🏦 Banking Services
 
-## 📈 Statistics
+![Services](images/Services.png)
 
-![Statistics](images/statistics.png)
+### 📊 Statistics
 
----
-
+![Statistics](images/Statistics.png)
 # 🗄️ Database
 
 The application uses **MySQL** for storing and managing banking data.
